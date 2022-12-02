@@ -14,3 +14,5 @@ Table of Contents
 -example_file.txt
 
 **MERGE PRACTICE**
+
+**PULL PRACTICE**
